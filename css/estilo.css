@@ -1,0 +1,219 @@
+
+
+
+
+.nav-link{
+    color: #b1b1b1;
+    font-weight: bold;
+    font-size: 25px;
+   
+    
+}
+.nav-item a:hover{
+    color: #fff;
+    
+}
+
+.nav-item a:focus{
+   color: #b1b1b1;
+}
+
+.navbar-brand{
+    height: 53px;
+    width: 227px;
+    margin-right: 3rem;
+}
+.menu{
+    color: chocolate;
+}
+
+.dropdown-menu[data-bs-popper] {
+    top: 100%;
+    left: auto;
+    margin-top: 0.125rem;
+    right: 0;
+}
+
+.dropdown-menu{
+    background-color: #23252b;
+    color: #b1b1b1;
+    left: auto;
+    right: 0%;
+
+}
+.dropdown-menu [data-bs-popper] {
+    left: auto;
+}
+
+.dropdown-item{
+    color: #b1b1b1;
+}
+
+.navbar{
+    background-color: #23252b;
+    padding: 0rem;
+}
+.fa-magnifying-glass{
+    color: #b1b1b1;
+    text-decoration: none;
+    padding: 0.5rem;
+    
+}
+.navbar-toggler-icon{
+    color: chocolate;
+}
+
+.search-input-wrapper{
+    border-bottom: 0.125rem solid #59595b;
+    display: flex;
+    margin: 0 auto;
+    max-width: 55rem;
+    transition: border-color .2s cubic-bezier(.5,0,.25,1);
+}
+
+.barra-de-pesquisa{
+    text-rendering: optimizeLegibility;
+    background-color: #121314;
+    border: none;
+    color: #fff;
+    display: block;
+    flex: 1 1 auto;
+    font-family: Lato,Helvetica Neue,helvetica,sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 2rem;
+    padding-bottom: 0.25rem;
+    padding-top: 0;
+    width: 100%;
+}
+
+
+
+.logo{
+    width: 70px;
+    height: 70px;
+}
+
+
+.fa-user-circle{
+    color: #b1b1b1;
+    text-decoration: none;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+.icones{
+    display: flex;
+    height: 58px;
+    width: 58px;
+    border-radius: 50%;
+}
+.navbar-toggler:focus{
+    box-shadow: none;
+}
+
+.menu-usuario{
+    padding-top: 0.75rem; 
+    border-bottom: 1px;
+    border-bottom: #b1b1b1;
+}   
+
+.item-menu-usuario{
+    display: flex;
+    margin-bottom: 0.75rem;
+    padding: 0.5rem 1rem;
+   
+    
+}
+.itens-menu{
+    border-top: 0.125rem solid #b1b1b1;
+    padding-bottom: 0.75rem;
+    padding-top: 0.75rem;
+}
+
+.back-color-item:hover{
+    background-color: #121314;
+}
+h4{
+    font-size: 1rem;
+}
+
+.hoverl a:hover{
+    color: chocolate;
+}
+.barra-item{
+    display: flex;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+ul{
+    display: flex;
+}
+
+.carousel-imagem{
+
+    height: 22.5rem;
+    width: 100%;
+}
+.navbar{
+    height: 4.7rem;
+}
+.carousel-indicators [data-bs-target]{
+    border-radius: 50%;
+    height: 1rem;
+    width: 1rem;
+    border: 3px solid #000;
+    
+
+}
+
+.margem-lateral{
+    padding-left: 8.125rem;
+    padding-right: 8.125rem;
+}
+.borda-home-page{
+    border-top: 5px solid #ff730c;
+    
+}
+
+.lancamentos{
+    padding-bottom: 2,125rem;
+}
+.card{
+    border:none;
+}
+
+.card-x-y{
+
+    height: 18.125rem;
+    
+}
+
+.card-body{
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    display: contents;
+}
+a{
+    text-decoration: none;
+}
+
+.bg-laranja{
+    background-color: #ff730c;
+}
+
+ 
+  .card:hover{
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+.carousel{
+    padding-top: 5rem;
+}
+.back-image{
+    background-image: url(https://cdn.discordapp.com/attachments/523206077974839316/1007450500112859156/Sem_Titulo-1.png)
+}
+
